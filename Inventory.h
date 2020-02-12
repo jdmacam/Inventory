@@ -4,7 +4,11 @@
 
 using std::string;
 using std::ostream;
-
+/* Class: Inventory
+  m_name - string - name of the item
+  m_price - float - price of the item
+  m_in_stock - int - # of item in stock
+*/
 class Inventory
 {
   private:
