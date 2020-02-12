@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/jdmacam/Inventory.svg?branch=master)](https://travis-ci.com/jdmacam/Inventory)
 Steps to start Inventory application
 1. run make command
 2. type "./a.out" without quotations to run executable
